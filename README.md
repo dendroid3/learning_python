@@ -57,5 +57,4 @@ I'm following this structured outline from the course:
    git clone https://github.com/dendroid3/learning_python.git
    cd learning_python
 
-
-
+BETTER TO WATCH THE VIDEO YOURSELF THOUGH HEHE!
